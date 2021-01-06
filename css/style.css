@@ -97,16 +97,26 @@ h2{
     margin-top: 100px;
     
 }
-.half-width{
-    width: 40%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.half-width1{
+    width: 65%;
     
-}  
-.half-width h1{
+    padding-left: 5%;
+    padding-top: 3%;
+    display: inline-block;
+
+}
+.half-width1 h1{
     color: white;
 }
+.half-width2{
+    width: 15%;
+    
+    margin-left: 10%;
+    display: inline-block;
+}
+ 
+ 
+
 
 
 
